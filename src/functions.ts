@@ -1,3 +1,5 @@
+import { ScoredWords } from "./types";
+
 /**
  *  The main package function : extract main words from a text using the current settings
  *
