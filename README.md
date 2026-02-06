@@ -1,6 +1,3 @@
-# WIP
-
-```md
 # ✨ Keyword Extractor by **Dalfy**
 
 > A smart and flexible tool to extract the most important words from a text using base rules and customizable settings.
@@ -37,4 +34,3 @@ Instead of relying on a fixed algorithm, the tool is designed to be **configurab
 ## 👤 Author
 
 Built and maintained by **Dalfy**.
-```
