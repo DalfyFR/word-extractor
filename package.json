@@ -1,0 +1,37 @@
+{
+  "name": "@dalfy/word-extractor",
+  "version": "0.0.2",
+  "description": "Extract important words from a text based on somes rules and settings",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/DalfyFR",
+  "repository": {
+    "url": "https://github.com/DalfyFR/word-extractor"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENCE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "tsup",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "word",
+    "extract",
+    "extractor",
+    "important",
+    "find"
+  ],
+  "author": "Dalfy",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3"
+  }
+}
