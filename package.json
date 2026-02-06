@@ -1,6 +1,6 @@
 {
   "name": "@dalfy/word-extractor",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Extract important words from a text based on somes rules and settings",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
